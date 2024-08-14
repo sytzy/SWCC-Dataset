@@ -14,21 +14,8 @@ The current version of the dataset includes:
 We provide a subset so that you can familiarize yourself with its structure.
 
 #### Structure
-Structure
-├── SWCC_Dataset
-│   ├── SWCC
-│   │   ├── image
-│   │   │   ├── train
-│   │   │   │   ├── xxx{img_suffix}
-│   │   │   │   ├── yyy{img_suffix}
-│   │   │   │   ├── zzz{img_suffix}
-│   │   │   ├── val
-│   │   ├── mask
-│   │   │   ├── train
-│   │   │   │   ├── xxx{seg_map_suffix}
-│   │   │   │   ├── yyy{seg_map_suffix}
-│   │   │   │   ├── zzz{seg_map_suffix}
-│   │   │   ├── val
+![image](https://github.com/user-attachments/assets/a8a51f93-6117-47ec-858d-2b601e0ee15a)
+
 
 ## Download
 To download the complete dataset, please click on this link https://pan.baidu.com/s/1RWpl3OPntMWPUbkg2hy1bg Extracted code:sytz
