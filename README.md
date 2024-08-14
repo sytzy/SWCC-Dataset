@@ -1,4 +1,5 @@
 # SWCC-Dataset
+![image](https://github.com/user-attachments/assets/602aba30-cc8f-4f19-99b1-99926579a5fc)
 
 
 This is the repository for the SWCCC Dataset. We provide some information of the dataset.
