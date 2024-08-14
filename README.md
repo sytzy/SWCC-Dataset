@@ -10,9 +10,12 @@ SWCC is a benchmark dataset for agricultural object semantic segmentation, focus
 The current version of the dataset includes:
 1721 images (1377 for training and 344 for testing), containing 5 categories.
 
+### Explore the dataset
+We provide a subset so that you can familiarize yourself with its structure.
+
 #### Structure
 ![image](https://github.com/user-attachments/assets/8546f920-ccfc-4037-b37b-4c3f60eab9ca)
 
-
-
+## Download
+To download the complete dataset, please click on this 链接：https://pan.baidu.com/s/1RWpl3OPntMWPUbkg2hy1bg 提取码：sytz
 
