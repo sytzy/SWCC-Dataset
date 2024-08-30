@@ -17,5 +17,5 @@ We provide a subset so that you can familiarize yourself with its structure.
 ![image](https://github.com/user-attachments/assets/75ed13fb-8c0c-4182-925a-7689e0922927)
 
 ## Download
-To download the complete dataset, please click on this link https://pan.baidu.com/s/1RWpl3OPntMWPUbkg2hy1bg Extracted code:sytz
+To download the complete dataset, please click on this link https://www.journalmc.com/datasets
 
